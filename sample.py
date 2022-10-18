@@ -1,7 +1,7 @@
-x=10
-y=5
-temp=x
-y=temp
-y=temp
-print('value of x is: ',x)
-print('value of y is: ',y)
+a=10
+b=5
+temp=a
+a=b
+b=temp
+print('value of a is: ',a)
+print('value of b is: ',b)
